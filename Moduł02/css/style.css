@@ -1,0 +1,18 @@
+.naglowek {
+    color: hsl(0, 100%, 50%);
+    background-color: darkgray;
+
+}
+
+.maloważne {
+    color: darkgoldenrod;
+}
+
+.wyraz {
+    color: darkred;
+
+}
+
+.ostatni {
+    color: darkgreen;
+}
